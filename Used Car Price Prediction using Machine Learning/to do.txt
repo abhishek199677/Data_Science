@@ -1,0 +1,5 @@
+1. Null values
+2. Outliers 
+3. Impute null values
+4. FInd the relation between dependent and independent variables
+5. FInd which columns to be removed and which columns to be kept based on EDA.
